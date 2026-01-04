@@ -1,0 +1,12 @@
+Plotted to '/home/kmt-universe/Desktop/TWIN_NODE/Gerber/TWIN_NODE-F_Cu.gbr'.
+Plotted to '/home/kmt-universe/Desktop/TWIN_NODE/Gerber/TWIN_NODE-B_Cu.gbr'.
+Plotted to '/home/kmt-universe/Desktop/TWIN_NODE/Gerber/TWIN_NODE-F_Paste.gbr'.
+Plotted to '/home/kmt-universe/Desktop/TWIN_NODE/Gerber/TWIN_NODE-B_Paste.gbr'.
+Plotted to '/home/kmt-universe/Desktop/TWIN_NODE/Gerber/TWIN_NODE-F_Silkscreen.gbr'.
+Plotted to '/home/kmt-universe/Desktop/TWIN_NODE/Gerber/TWIN_NODE-B_Silkscreen.gbr'.
+Plotted to '/home/kmt-universe/Desktop/TWIN_NODE/Gerber/TWIN_NODE-F_Mask.gbr'.
+Plotted to '/home/kmt-universe/Desktop/TWIN_NODE/Gerber/TWIN_NODE-B_Mask.gbr'.
+Plotted to '/home/kmt-universe/Desktop/TWIN_NODE/Gerber/TWIN_NODE-Edge_Cuts.gbr'.
+Created Gerber job file '/home/kmt-universe/Desktop/TWIN_NODE/Gerber/TWIN_NODE-job.gbrjob'.
+Info: Done.
+Info: Done.
