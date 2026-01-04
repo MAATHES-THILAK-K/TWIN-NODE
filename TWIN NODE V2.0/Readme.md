@@ -8,7 +8,7 @@
 # TWIN NODE V2.0  
 ### Low-Power Outdoor Water Level Sensor Node – Improved Design
 
-![TWIN NODE V2.0 Front View](TWIN%20NODE%20V2.0/IMAGES/TWIN_NODE_V2_FRONT.png)
+![TWIN NODE V2.0 Front View](IMAGES/TWIN_NODE_FRONT.png)
 
 
 
