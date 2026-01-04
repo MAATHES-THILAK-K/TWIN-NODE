@@ -1,0 +1,27 @@
+ERC report (2026-01-04T02:11:59+0530, Encoding UTF8)
+
+***** Sheet /
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(39.37 mm, 55.88 mm): Symbol U1 Pin 15 [GND, Bidirectional, Line]
+    @(25.40 mm, 153.67 mm): Symbol #FLG01 Pin 1 [Power output, Line]
+[lib_symbol_mismatch]: Symbol 'LED' doesn't match copy in library 'Device'
+    ; warning
+    @(49.53 mm, 154.94 mm): Symbol D1 [LED]
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(191.77 mm, 48.26 mm): Symbol IC1 Pin 1 [VIN, Bidirectional, Line]
+    @(73.66 mm, 149.86 mm): Symbol U2 Pin 5 [BAT, Power output, Line]
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(191.77 mm, 50.80 mm): Symbol IC1 Pin 2 [GND, Bidirectional, Line]
+    @(25.40 mm, 153.67 mm): Symbol #FLG01 Pin 1 [Power output, Line]
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(191.77 mm, 53.34 mm): Symbol IC1 Pin 3 [EN, Bidirectional, Line]
+    @(73.66 mm, 149.86 mm): Symbol U2 Pin 5 [BAT, Power output, Line]
+[lib_symbol_mismatch]: Symbol 'SI2301CDS-T1-GE3' doesn't match copy in library 'SI2301CDS-T1-GE3'
+    ; warning
+    @(180.34 mm, 135.89 mm): Symbol T1 [SI2301CDS-T1-GE3]
+
+ ** ERC messages: 6  Errors 0  Warnings 6
