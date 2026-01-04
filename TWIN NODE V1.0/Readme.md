@@ -5,6 +5,10 @@
 
 ---
 
+![TWIN NODE V1.0 Front View](IMAGES/WLM_NODE1_FRONT.png)
+
+
+
 ## 📌 Overview
 
 **TWIN NODE V1.0** is the **first hardware version** of a low-power, ESP-NOW-based water level monitoring system.
