@@ -20,8 +20,8 @@ This project is **designed for manufacturable PCBs**, with all components chosen
 
 | Feature       | Description                               |
 | ------------- | ----------------------------------------- |
-| Controller    | ESP-12F (ESP8266)                         |
-| Sensor        | SR04M / JSN-SR04T Waterproof Ultrasonic   |
+| Controller    | ESP-12F (ESP8266)                              |
+| Sensor        | SR04M / JSN-SR04T Waterproof Ultrasonic /HCSRO4|
 | Power Source  | 18650 Li-ion Battery                      |
 | Charging      | Solar Panel + TP4056                      |
 | Regulation    | RT9080-3.3 V LDO                          |
