@@ -1,0 +1,41 @@
+### Footprint positions - created on 2026-01-23T13:35:39+0530 ###
+### Printed by KiCad version 9.0.7-9.0.7~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                                     PosX       PosY       Rot  Side
+C1        10uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder             117.4000   -94.5000   90.0000  top
+C2        10uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder             128.4000   -93.9625   90.0000  top
+C3        0.1uF            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder             128.5000   -87.5300  -90.0000  top
+C4        100uF            CP_Elec_5x5.3                                           116.0000   -74.5000   90.0000  top
+C5        10uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder             120.0000   -76.0925   90.0000  top
+C6        100nF            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder             119.9700   -64.4700  -90.0000  top
+C7        100nF            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder             142.5300   -65.1675   90.0000  top
+C8        10uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder             116.5000   -82.5375  -90.0000  top
+C9        10uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder             122.5000   -82.5800   90.0000  top
+IC1       RT9080-33GJ5     SOT94P280X100-5N                                        119.5600   -82.8250   90.0000  top
+J2        USB_B_Micro      USB_Micro-B_Molex_47346-0001                            141.2250   -94.8000    0.0000  top
+J3        01x02            JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_Horizontal        111.7000   -87.4500  -90.0000  top
+J4        01x04            JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal        150.6250   -74.3000   90.0000  top
+Q1        FS8205A          SOP65P640X120-8N                                        119.5000   -87.5000    0.0000  top
+Q2        BSS138           SOT-23                                                  126.5625   -82.5000    0.0000  top
+R1        1k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             114.9000   -94.4700   90.0000  top
+R2        2k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             115.5000   -91.0000  180.0000  top
+R3        100              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             130.9000   -94.0000   90.0000  top
+R4        12k              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             142.5000   -76.6300  -90.0000  top
+R5        12k              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             143.4000   -73.1300    0.0000  top
+R6        10k              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             114.2000   -64.5000  -90.0000  top
+R7        12k              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             120.0000   -68.5000  -90.0000  top
+R8        12k              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             116.9700   -64.5000  -90.0000  top
+R9        1k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             125.5000   -87.5000  -90.0000  top
+R10       12k              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             145.2000   -69.6300   90.0000  top
+R11       10k              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             142.5000   -69.6300   90.0000  top
+R12       330              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             138.5000   -81.0000  180.0000  top
+R13       330              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             138.5000   -83.5000  180.0000  top
+R14       330              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             138.5000   -86.0000  180.0000  top
+R15       330              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder             138.5000   -88.5000  180.0000  top
+SW1       RST              SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS        111.0000   -70.0000  -90.0000  top
+SW2       BOOT             SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS        151.0000   -84.0000  -90.0000  top
+U1        ESP-12F          ESP-12F                                                 131.1900   -66.6800    0.0000  top
+U2        TP4056-42-ESOP8  SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias   122.9250   -93.5950    0.0000  top
+U3        DW01A            SOT-23-6                                                132.7575   -87.3500  180.0000  top
+## End
