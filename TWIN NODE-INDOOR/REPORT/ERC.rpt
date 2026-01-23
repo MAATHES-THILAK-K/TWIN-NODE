@@ -1,0 +1,39 @@
+ERC report (2026-01-13T01:05:36+0530, Encoding UTF8)
+
+***** Sheet /
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(43.18 mm, 54.61 mm): Symbol U1 Pin 15 [GND, Bidirectional, Line]
+    @(219.71 mm, 128.27 mm): Symbol J2 Pin 5 [GND, Power output, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(40.64 mm, 77.47 mm): Horizontal Wire, length 2.54 mm
+[lib_symbol_mismatch]: Symbol 'LED' doesn't match copy in library 'Device'
+    ; warning
+    @(46.99 mm, 149.86 mm): Symbol D1 [LED]
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(205.74 mm, 33.02 mm): Symbol IC1 Pin 1 [VIN, Bidirectional, Line]
+    @(71.12 mm, 144.78 mm): Symbol U2 Pin 5 [BAT, Power output, Line]
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(205.74 mm, 35.56 mm): Symbol IC1 Pin 2 [GND, Bidirectional, Line]
+    @(219.71 mm, 128.27 mm): Symbol J2 Pin 5 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(205.74 mm, 38.10 mm): Symbol IC1 Pin 3 [EN, Bidirectional, Line]
+    @(71.12 mm, 144.78 mm): Symbol U2 Pin 5 [BAT, Power output, Line]
+[lib_symbol_mismatch]: Symbol 'LED' doesn't match copy in library 'Device'
+    ; warning
+    @(252.73 mm, 111.76 mm): Symbol D2 [LED]
+[lib_symbol_mismatch]: Symbol 'LED' doesn't match copy in library 'Device'
+    ; warning
+    @(252.73 mm, 116.84 mm): Symbol D3 [LED]
+[lib_symbol_mismatch]: Symbol 'LED' doesn't match copy in library 'Device'
+    ; warning
+    @(252.73 mm, 121.92 mm): Symbol D4 [LED]
+[lib_symbol_mismatch]: Symbol 'LED' doesn't match copy in library 'Device'
+    ; warning
+    @(252.73 mm, 127.00 mm): Symbol D5 [LED]
+
+ ** ERC messages: 10  Errors 0  Warnings 10
