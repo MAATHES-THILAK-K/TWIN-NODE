@@ -1,0 +1,31 @@
+Drill report for ESP01-MOTOR_CTRL - TWIN_NODE.kicad_pcb
+Created on 2026-01-25T17:04:56+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'ESP01-MOTOR_CTRL - TWIN_NODE-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (5 holes)
+    T2  0.350mm  0.0138"  (1 hole)
+    T3  0.500mm  0.0197"  (32 holes)
+    T4  0.800mm  0.0315"  (2 holes)
+    T5  1.000mm  0.0394"  (12 holes)
+    T6  1.100mm  0.0433"  (2 holes)
+    T7  1.300mm  0.0512"  (4 holes)
+    T8  1.980mm  0.0780"  (4 holes)
+    T9  2.100mm  0.0827"  (4 holes)
+    T10  3.200mm  0.1260"  (4 holes)
+
+    Total plated holes count 70
+
+
+Drill file 'ESP01-MOTOR_CTRL - TWIN_NODE-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
