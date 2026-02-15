@@ -41,7 +41,7 @@ These resistors were found to be **redundant** and **can be safely removed** in 
 
 ### ✅ Reason
 
-* ESP8266 internal pull-ups are sufficient for:
+* ESP8266 12K pull-ups are sufficient for:
 
   * Normal boot operation
   * Reliable reset behavior
