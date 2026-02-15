@@ -79,4 +79,3 @@ Remove the 10 kΩ pull-up resistors on **GPIO0 (BOOT)** and **RST**.
 
 **MAATHES-THILAK-K (KMT)**
 Embedded Systems | PCB Design | Robotics
-
